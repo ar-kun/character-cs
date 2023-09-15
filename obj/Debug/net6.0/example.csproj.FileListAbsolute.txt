@@ -1,0 +1,15 @@
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\bin\Debug\net6.0\example.exe
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\bin\Debug\net6.0\example.deps.json
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\bin\Debug\net6.0\example.runtimeconfig.json
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\bin\Debug\net6.0\example.dll
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\bin\Debug\net6.0\example.pdb
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\obj\Debug\net6.0\example.csproj.AssemblyReference.cache
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\obj\Debug\net6.0\example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\obj\Debug\net6.0\example.AssemblyInfoInputs.cache
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\obj\Debug\net6.0\example.AssemblyInfo.cs
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\obj\Debug\net6.0\example.csproj.CoreCompileInputs.cache
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\obj\Debug\net6.0\example.dll
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\obj\Debug\net6.0\refint\example.dll
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\obj\Debug\net6.0\example.pdb
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\obj\Debug\net6.0\example.genruntimeconfig.cache
+C:\Users\arshi\OneDrive\Documents\Dotnet\example\obj\Debug\net6.0\ref\example.dll
